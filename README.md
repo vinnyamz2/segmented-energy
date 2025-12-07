@@ -234,9 +234,14 @@ E_tot(N) = (m / N) * sum_{n=1..N} [
 
 This repository is part of the **Segmented Spacetime (SSZ) Research Suite**:
 
-- **[SSZ Metric Pure](https://github.com/error-wtf/ssz-metric-pure)** - Mathematical foundations
-- **[Unified Results](https://github.com/error-wtf/Segmented-Spacetime-Mass-Projection-Unified-Results)** - Physical validation
-- **[G79 Cygnus Tests](https://github.com/error-wtf/g79-cygnus-tests)** - Nebula application
+- **🌌 [Unified Results](https://github.com/error-wtf/Segmented-Spacetime-Mass-Projection-Unified-Results)** ← **MAIN REPO**
+  - Comprehensive physical validation (97.9% ESO accuracy)
+  - 25/25 test suites passing
+  - Theory of Everything (83.3% consistency)
+
+- **📐 [SSZ Metric Pure](https://github.com/error-wtf/ssz-metric-pure)** - Mathematical foundations
+
+- **🌟 [G79 Cygnus Tests](https://github.com/error-wtf/g79-cygnus-tests)** - Nebula application
 
 ---
 
