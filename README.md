@@ -169,10 +169,17 @@ E_tot(N) = (m / N) * sum_{n=1..N} [
 
 | File | Description |
 |------|-------------|
-| `README.md` | This file |
-| `COMPLETE_DOCUMENTATION.md` | Full technical documentation |
-| `FINDINGS.md` | Scientific findings |
-| `TEST_RESULTS_SUMMARY.md` | Validation results |
+| [`docs/INDEX.md`](docs/INDEX.md) | **Complete Documentation Index** |
+| [`README.md`](README.md) | This file |
+| [`COMPLETE_DOCUMENTATION.md`](COMPLETE_DOCUMENTATION.md) | Full technical documentation |
+| [`README_COMPLETE.md`](README_COMPLETE.md) | Extended README |
+| [`FINDINGS.md`](FINDINGS.md) | Scientific findings |
+| [`SEGMENTED_SPACETIME_COMPLETE_MATHEMATICS.md`](SEGMENTED_SPACETIME_COMPLETE_MATHEMATICS.md) | Mathematical foundations |
+| [`ENERGY_DECOMPOSITION_N_SEGMENTS.md`](ENERGY_DECOMPOSITION_N_SEGMENTS.md) | N-segment decomposition |
+| [`TEST_RESULTS_SUMMARY.md`](TEST_RESULTS_SUMMARY.md) | Validation results |
+| [`META_ANALYSIS_LESSONS_LEARNED.md`](META_ANALYSIS_LESSONS_LEARNED.md) | Meta-analysis |
+| [`VERGLEICH_ERGEBNIS.md`](VERGLEICH_ERGEBNIS.md) | Comparison results (DE) |
+| [`WARUM_UNIFIED_VERSION.md`](WARUM_UNIFIED_VERSION.md) | Why unified version (DE) |
 
 ### Output Files
 
